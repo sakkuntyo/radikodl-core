@@ -1,24 +1,16 @@
 {
-  "name": "ytdl-core",
-  "description": "YouTube video downloader in pure javascript.",
+  "name": "radikodl--core",
+  "description": "radiko downloader in pure javascript.",
   "keywords": [
     "youtube",
     "video",
     "download"
   ],
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fent/node-ytdl-core.git"
+    "url": "git://github.com/sakkuntyo/radikodl-core.git"
   },
-  "author": "fent <fentbox@gmail.com> (https://github.com/fent)",
-  "contributors": [
-    "Tobias Kutscha (https://github.com/TimeForANinja)",
-    "Andrew Kelley (https://github.com/andrewrk)",
-    "Mauricio Allende (https://github.com/mallendeo)",
-    "Rodrigo Altamirano (https://github.com/raltamirano)",
-    "Jim Buck (https://github.com/JimmyBoh)"
-  ],
   "main": "./lib/index.js",
   "types": "./typings/index.d.ts",
   "files": [
