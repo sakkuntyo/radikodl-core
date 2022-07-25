@@ -1,12 +1,12 @@
 {
-  "name": "radikodl--core",
+  "name": "radikodl-core",
   "description": "radiko downloader in pure javascript.",
   "keywords": [
     "youtube",
     "video",
     "download"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/sakkuntyo/radikodl-core.git"
